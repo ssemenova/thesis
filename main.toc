@@ -1,10 +1,13 @@
 \contentsline {chapter}{Introduction}{5}{chapter*.2}
 \contentsline {section}{Motivation}{5}{section*.3}
 \contentsline {section}{Previous research}{5}{section*.4}
-\contentsline {section}{Summary of work done}{5}{section*.5}
+\contentsline {section}{Summary of work done}{6}{section*.5}
 \contentsline {chapter}{The Demo}{7}{chapter*.6}
-\contentsline {section}{WiSeDB}{7}{section*.7}
-\contentsline {section}{Demo}{7}{section*.8}
-\contentsline {chapter}{Economic Methods}{9}{chapter*.9}
-\contentsline {section}{Introduction}{9}{section*.10}
+\contentsline {section}{Introduction}{7}{section*.7}
+\contentsline {section}{WiSeDB}{7}{section*.8}
+\contentsline {section}{Demo}{7}{section*.9}
+\contentsline {chapter}{Economic Methods (name?)}{9}{chapter*.10}
+\contentsline {section}{Introduction}{9}{section*.11}
+\contentsline {section}{Overview of the System}{9}{section*.12}
+\contentsline {section}{Results}{9}{section*.13}
 \contentsfinish 
