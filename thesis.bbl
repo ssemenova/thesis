@@ -1,0 +1,124 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{10}
+
+\bibitem{barrett2013applying}
+Enda Barrett, Enda Howley, and Jim Duggan, \emph{Applying reinforcement
+  learning towards automating resource allocation and application scalability
+  in the cloud}, Concurrency and Computation: Practice and Experience
+  \textbf{25} (2013), no.~12, 1656--1674.
+
+\bibitem{icbs}
+Yun Chi, Hyun~Jin Moon, and Hakan Hacigumus, \emph{{{iCBS}}: {{Incremental
+  Cost}}-based {{Scheduling Under Piecewise Linear SLAs}}}, Proceedings of the
+  VLDB Endowment \textbf{4.9} (2011), 563--574.
+
+\bibitem{sla-tree}
+Yun Chi, Hyun~Jin Moon, Hakan Hacigumus, and Junichi Tatemura,
+  \emph{{{SLA}}-tree: {{A Framework}} for {{Efficiently Supporting SLA}}-based
+  {{Decisions}} in {{Cloud Computing}}}, Proceedings of the 14th
+  {{International Conference}} on {{Extending Database Technology}} (Uppsala,
+  Sweden), EDBT '11, {ACM}, 2011, pp.~129--140.
+
+\bibitem{schism}
+Carlo Curino, Evan Jones, Yang Zhang, and Sam Madden, \emph{Schism: {{A
+  Workload}}-driven {{Approach}} to {{Database Replication}} and
+  {{Partitioning}}}, Proc. VLDB Endow. \textbf{3} (2010), no.~1-2, 48--57.
+
+\bibitem{delphi_pythia}
+Aaron~J. Elmore, Sudipto Das, Alexander Pucher, Divyakant Agrawa, Amr~El
+  Abbadi, and Xifeng Yan, \emph{Characterizing {{Tenant Behavior}} for
+  {{Placement}} and {{Crisis Mitigation}} in {{Multitenant DBMSs}}},
+  Proceedings of the 2013 {{ACM SIGMOD International Conference}} on
+  {{Management}} of {{Data}} (New York, New York, USA), SIGMOD '13, {ACM},
+  2013, pp.~517--528.
+
+\bibitem{dyfram}
+Jon~Olav Hauglid, Norvald~H. Ryeng, and Kjetil N{\o}rv{\aa}g, \emph{{{DYFRAM}}:
+  Dynamic fragmentation and replica management in distributed database
+  systems}, Distributed and Parallel Databases \textbf{28} (2010), no.~2-3,
+  157--185 (en).
+
+\bibitem{bazaar}
+Virajith Jalaparti, Hitesh Ballani, Paolo Costa, Thomas Karagiannis, and Ant
+  Rowstron, \emph{Bridging the {{Tenant}}-provider {{Gap}} in {{Cloud
+  Services}}}, Proceedings of the {{Third ACM Symposium}} on {{Cloud
+  Computing}} (San Jose, California), SoCC '12, {ACM}, 2012, pp.~10:1--10:14.
+
+\bibitem{sword}
+K.~Ashwin Kumar, Abdul Quamar, Amol Deshpande, and Samir Khuller,
+  \emph{{{SWORD}}: {{Workload}}-aware {{Data Placement}} and {{Replica
+  Selection}} for {{Cloud Data Management Systems}}}, The VLDB Journal
+  \textbf{23} (2014), no.~6, 845--870.
+
+\bibitem{slos}
+W.~Lang, S.~Shankar, J.~Patel, and A.~Kalhan, \emph{Towards {{Multi}}-{{Tenant
+  Performance SLOs}}}, {{IEEE Transactions}} on {{Knowledge}} and {{Data
+  Engineering}}, ICDE '14, vol. 26.6, June 2014, pp.~1447--1463.
+
+\bibitem{pmax}
+Ziyang Liu, Hakan Hacigumus, Hyun~Jin Moon, Yun Chi, and Wang-Pin Hsiung,
+  \emph{{{PMAX}}: {{Tenant Placement}} in {{Multitenant Databases}} for
+  {{Profit Maximization}}}, Proceedings of the 16th {{International
+  Conference}} on {{Extending Database Technology}} (Genoa, Italy), EDBT '13,
+  {ACM}, 2013, pp.~442--453.
+
+\bibitem{lolos2017elastic}
+Konstantinos Lolos, Ioannis Konstantinou, Verena Kantere, and Nectarios
+  Koziris, \emph{Adaptive state space partitioning of markov decision processes
+  for elastic resource management}, 2017 IEEE 33rd International Conference on
+  Data Engineering, ICDE '17, {IEEE}, 2017.
+
+\bibitem{cloudoptimizer}
+Hatem Mahmoud, Hyun~Jin Moon, Yun Chi, Hakan Hacigumus, Divyakant Agrawal, and
+  Amr El-Abbadi, \emph{{{CloudOptimizer}}: {{Multi}}-tenancy for
+  {{I}}/{{O}}-bound {{OLAP Workloads}}}, Proceedings of the 16th
+  {{International Conference}} on {{Extending Database Technology}} (Genoa,
+  Italy), EDBT '13, {ACM}, 2013, pp.~77--88.
+
+\bibitem{wisedb-long}
+Ryan Marcus and Olga Papaemmanouil, \emph{{{WiSeDB}}: {{A Learning}}-based
+  {{Workload Management Advisor}} for {{Cloud Databases}}}, Proceedings of the
+  VLDB Endowment \textbf{9} (2016), no.~10, 780--791.
+
+\bibitem{wisedb-short}
+\bysame, \emph{Workload {{Management}} for {{Cloud Databases}} via {{Machine
+  Learning}}}, Workshop on {{Cloud Data Management}} and the {{IEEE
+  International Conference}} on {{Data Engineering}}, CloudDM '16, {IEEE},
+  2016.
+
+\bibitem{banditdb}
+\bysame, \emph{Releasing {{Cloud Databases}} from the {{Chains}} of
+  {{Performance Prediction Models}}}, 8th {{Biennial Conference}} on
+  {{Innovative Data Systems Research}}, CIDR '17, 2017.
+
+\bibitem{demo}
+Ryan Marcus, Sofiya Semenova, and Olga Papaemmanouil, \emph{A {{Learning-based
+  Service}} for {{Cost}} and {{Performance Management}} of {{Cloud
+  Databases}}}, 2017 IEEE 33rd International Conference on Data Engineering,
+  ICDE '17, {IEEE}, 2017.
+
+\bibitem{sqlvm}
+Vivek Narasayya, Sudipto Das, Manoj Syamala, Badrish Chandramouli, and Surajit
+  Chaudhuri, \emph{{{SQLVM}}: {{Performance Isolation}} in {{Multi}}-{{Tenant
+  Relational Database}}-as-a-{{Service}}}, 6th {{Biennial Conference}} on
+  {{Innovative Data Systems Research}}, CIDR '13, January 2013.
+
+\bibitem{pslas}
+Jennifer Ortiz, Victor~Teixeira de~Almeida, and Magdalena Balazinska,
+  \emph{Changing the {{Face}} of {{Database Cloud Services}} with
+  {{Personalized Service Level Agreements}}}, 7th {{Biennial Conference}} on
+  {{Innovative Data Systems Research}}, CIDR '15, 2015.
+
+\bibitem{mariposa}
+J.~Sidell, P.~M. Aoki, A.~Sah, C.~Staelin, M.~Stonebraker, and A.~Yu,
+  \emph{Data replication in {{Mariposa}}}, Proceedings of the 12th
+  {{International Conference}} on {{Data Engineering}}, ICDE '96, February
+  1996, pp.~485--494.
+
+\end{thebibliography}

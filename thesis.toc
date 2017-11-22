@@ -1,0 +1,16 @@
+\contentsline {chapter}{\tocchapter {Chapter}{}{List of Figures}}{iii}
+\contentsline {chapter}{\tocchapter {Chapter}{1}{Introduction}}{1}
+\contentsline {chapter}{\tocchapter {Chapter}{2}{WiSeDB}}{3}
+\contentsline {section}{\tocsection {}{2.1}{Previous Research}}{5}
+\contentsline {section}{\tocsection {}{2.2}{WiSeDB Approach}}{5}
+\contentsline {section}{\tocsection {}{2.3}{Generating the Decision Tree}}{6}
+\contentsline {chapter}{\tocchapter {Chapter}{3}{BanditDB}}{9}
+\contentsline {section}{\tocsection {}{3.1}{Related Work}}{10}
+\contentsline {section}{\tocsection {}{3.2}{BanditDB Approach}}{10}
+\contentsline {chapter}{\tocchapter {Chapter}{4}{Demo}}{13}
+\contentsline {chapter}{\tocchapter {Chapter}{5}{Ongoing Work}}{17}
+\contentsline {section}{\tocsection {}{5.1}{Previous Research}}{17}
+\contentsline {section}{\tocsection {}{5.2}{Our Research}}{19}
+\contentsline {section}{\tocsection {}{5.3}{Splitting and Joining Fragments}}{20}
+\contentsline {section}{\tocsection {}{5.4}{Results}}{21}
+\contentsline {chapter}{\tocchapter {Chapter}{}{Bibliography}}{23}
